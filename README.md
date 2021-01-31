@@ -1,2 +1,0 @@
-# purpleblue
-hugo test site
